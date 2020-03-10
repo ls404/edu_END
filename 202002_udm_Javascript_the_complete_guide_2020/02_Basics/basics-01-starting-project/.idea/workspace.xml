@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f02aa43-a5ab-428b-9aac-e4d1fab41a0b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <bower-package value="" />
+    <bower.json value="" />
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JupyterTrust" id="3c0624fd-9fca-41fa-8125-b3d0bc846c8d" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="bkOhHkhh" />
+  </component>
+  <component name="ProjectId" id="1Y8srbKb55gQ13WdyltiETfLso7" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JavaScript" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Color Scheme Font" />
+  </component>
+  <component name="RunManager" selected="Node.js.scratch_1.js">
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/basics-01-starting-project/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch_1.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/scratch_1.js" working-dir="$PROJECT_DIR$">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.scratch_1.js" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="RustProjectSettings">
+    <option name="toolchainHomeDirectory" value="/usr/bin" />
+    <option name="version" value="2" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f02aa43-a5ab-428b-9aac-e4d1fab41a0b" name="Default Changelist" comment="" />
+      <created>1582335756095</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582335756095</updated>
+      <workItem from="1582335771431" duration="8433000" />
+      <workItem from="1582446595682" duration="197000" />
+      <workItem from="1582446838615" duration="1357000" />
+      <workItem from="1582486546565" duration="1680000" />
+      <workItem from="1583070144358" duration="630000" />
+      <workItem from="1583089819234" duration="64000" />
+      <workItem from="1583248994812" duration="648000" />
+      <workItem from="1583250777700" duration="273000" />
+      <workItem from="1583251068316" duration="6185000" />
+      <workItem from="1583428568271" duration="2716000" />
+      <workItem from="1583569223349" duration="854000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="468" y="394" key="#Web_Browsers" timestamp="1582335942717">
+      <screen x="29" y="24" width="2531" height="1416" />
+    </state>
+    <state x="468" y="394" key="#Web_Browsers/29.24.2531.1416/2560.360.1920.1080@29.24.2531.1416" timestamp="1582335942717" />
+    <state x="332" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582370060562">
+      <screen x="29" y="24" width="2531" height="1416" />
+    </state>
+    <state x="332" y="391" key="#com.intellij.execution.impl.EditConfigurationsDialog/29.24.2531.1416/2560.360.1920.1080@29.24.2531.1416" timestamp="1582370060562" />
+    <state x="1082" y="441" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1582369764958">
+      <screen x="29" y="24" width="2531" height="1416" />
+    </state>
+    <state x="1082" y="441" key="#com.intellij.ide.macro.MacrosDialog/29.24.2531.1416/2560.360.1920.1080@29.24.2531.1416" timestamp="1582369764958" />
+    <state x="1028" y="564" key="#com.intellij.tools.ToolEditorDialog" timestamp="1582369766896">
+      <screen x="29" y="24" width="2531" height="1416" />
+    </state>
+    <state x="1028" y="564" key="#com.intellij.tools.ToolEditorDialog/29.24.2531.1416/2560.360.1920.1080@29.24.2531.1416" timestamp="1582369766896" />
+    <state width="1590" height="485" key="GridCell.Tab.0.bottom" timestamp="1583428947086">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1630" height="398" key="GridCell.Tab.0.bottom/29.24.2531.1416/2560.360.1920.1080@29.24.2531.1416" timestamp="1582393606447" />
+    <state width="1590" height="485" key="GridCell.Tab.0.bottom/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947086" />
+    <state width="1590" height="485" key="GridCell.Tab.0.center" timestamp="1583428947086">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1630" height="398" key="GridCell.Tab.0.center/29.24.2531.1416/2560.360.1920.1080@29.24.2531.1416" timestamp="1582393606447" />
+    <state width="1590" height="485" key="GridCell.Tab.0.center/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947086" />
+    <state width="1590" height="485" key="GridCell.Tab.0.left" timestamp="1583428947086">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1630" height="398" key="GridCell.Tab.0.left/29.24.2531.1416/2560.360.1920.1080@29.24.2531.1416" timestamp="1582393606447" />
+    <state width="1590" height="485" key="GridCell.Tab.0.left/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947086" />
+    <state width="1590" height="485" key="GridCell.Tab.0.right" timestamp="1583428947086">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1630" height="398" key="GridCell.Tab.0.right/29.24.2531.1416/2560.360.1920.1080@29.24.2531.1416" timestamp="1582393606447" />
+    <state width="1590" height="485" key="GridCell.Tab.0.right/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947086" />
+    <state width="1590" height="485" key="GridCell.Tab.1.bottom" timestamp="1583428947124">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1590" height="485" key="GridCell.Tab.1.bottom/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947124" />
+    <state width="1590" height="485" key="GridCell.Tab.1.center" timestamp="1583428947124">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1590" height="485" key="GridCell.Tab.1.center/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947124" />
+    <state width="1590" height="485" key="GridCell.Tab.1.left" timestamp="1583428947124">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1590" height="485" key="GridCell.Tab.1.left/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947124" />
+    <state width="1590" height="485" key="GridCell.Tab.1.right" timestamp="1583428947124">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1590" height="485" key="GridCell.Tab.1.right/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947124" />
+    <state width="1590" height="485" key="GridCell.Tab.2.bottom" timestamp="1583428947036">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1590" height="485" key="GridCell.Tab.2.bottom/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947036" />
+    <state width="1590" height="485" key="GridCell.Tab.2.center" timestamp="1583428947036">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1590" height="485" key="GridCell.Tab.2.center/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947036" />
+    <state width="1590" height="485" key="GridCell.Tab.2.left" timestamp="1583428947036">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1590" height="485" key="GridCell.Tab.2.left/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947036" />
+    <state width="1590" height="485" key="GridCell.Tab.2.right" timestamp="1583428947036">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1590" height="485" key="GridCell.Tab.2.right/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947036" />
+    <state width="1590" height="485" key="GridCell.Tab.3.bottom" timestamp="1583428947036">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1590" height="485" key="GridCell.Tab.3.bottom/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947036" />
+    <state width="1590" height="485" key="GridCell.Tab.3.center" timestamp="1583428947036">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1590" height="485" key="GridCell.Tab.3.center/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947036" />
+    <state width="1590" height="485" key="GridCell.Tab.3.left" timestamp="1583428947036">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1590" height="485" key="GridCell.Tab.3.left/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947036" />
+    <state width="1590" height="485" key="GridCell.Tab.3.right" timestamp="1583428947036">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state width="1590" height="485" key="GridCell.Tab.3.right/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428947036" />
+    <state x="29" y="30" width="2531" height="1410" key="SettingsEditor" timestamp="1583429064863">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state x="29" y="24" width="2531" height="1416" key="SettingsEditor/29.24.2531.1416/2560.360.1920.1080@29.24.2531.1416" timestamp="1582370033437" />
+    <state x="29" y="30" width="2531" height="1410" key="SettingsEditor/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583429064863" />
+    <state x="519" y="268" key="com.intellij.ide.util.TipDialog" timestamp="1583570012102">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state x="504" y="559" key="com.intellij.ide.util.TipDialog/29.24.2531.1416/2560.360.1920.1080@29.24.2531.1416" timestamp="1582335771692" />
+    <state x="519" y="268" key="com.intellij.ide.util.TipDialog/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583570012102" />
+    <state x="378" y="393" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1583428932248">
+      <screen x="29" y="30" width="2531" height="1410" />
+    </state>
+    <state x="378" y="393" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/29.30.2531.1410/2560.360.1920.1080@29.30.2531.1410" timestamp="1583428932248" />
+    <state x="531" y="347" width="672" height="678" key="search.everywhere.popup" timestamp="1582368649539">
+      <screen x="29" y="24" width="2531" height="1416" />
+    </state>
+    <state x="531" y="347" width="672" height="678" key="search.everywhere.popup/29.24.2531.1416/2560.360.1920.1080@29.24.2531.1416" timestamp="1582368649539" />
+  </component>
+</project>
